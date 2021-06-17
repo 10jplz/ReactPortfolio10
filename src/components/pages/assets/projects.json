@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Work Day Scheduler",
+      "image": "https://10jplz.github.io/Portfolio/assets/Workday.png",
+      "description": "Oorganize your day with this awesome Scheduler Each work hour is separated into a slot Tasks will be saved on your local storage web browser.",
+      "applink": "https://10jplz.github.io/DayPlanner/",
+      "gitrepo": "https://github.com/10jplz/DayPlanner"
+    },
+
+    {
+      "id": 2,
+      "name": "Weather App",
+      "image": "https://10jplz.github.io/Portfolio/assets/Weather.png",
+      "description": "This App will help plan your next trip by showing you the weather outlook for any city.",
+      "applink": "https://10jplz.github.io/WeatherDashboard/",
+      "gitrepo": "https://github.com/10jplz/WeatherDashboard"
+    },
+
+    {
+      "id": 3,
+      "name": "Project 1 Nacho Mama's Quiz",
+      "image": "https://10jplz.github.io/Portfolio/assets/Project1.png",
+      "description": "This App will help plan your next trip by showing you the weather outlook for any city.",
+      "applink": "https://e-martinez77.github.io/Project-1/",
+      "gitrepo": "https://github.com/E-Martinez77/Project-1"
+    },
+
+    {
+      "id": 4,
+      "name": "NoteTaker",
+      "image": "https://raw.githubusercontent.com/10jplz/Portfolio/main/Screen%20Shot%202021-06-16%20at%203.25.44%20PM.png",
+      "description": "You can use this webapp to manage your todo list or to take notes.",
+      "applink": "https://jcont-note-taker.herokuapp.com/notes",
+      "gitrepo": "https://github.com/10jplz/NoteTaker"
+    }
+
+
+
+]
